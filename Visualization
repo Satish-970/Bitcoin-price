@@ -1,8 +1,0 @@
-visualizations help us to analyze how well the Linear Regression model predicts Bitcoin prices and provide insights into price trends.
-
-1."Time Series Line Plot of Bitcoin Price: Actual vs Predicted"
-This type of plot is used to track trends over time.
-It compares actual vs. predicted values to evaluate how well a model is performing.
-
-
-Good sign: If the red line follows the blue line closely.
