@@ -1,5 +1,5 @@
 # Bitcoin-price
-bit coin price preddiction with regression
+Bit coin price preddiction with regression
 Bitcoin Price Prediction Project - Explanation
 This project aims to analyze and predict Bitcoin prices using historical data. It involves data preprocessing, exploratory analysis, and machine learning (Linear Regression) to predict future Bitcoin prices.
  Step 1: Load and Preprocess Data
